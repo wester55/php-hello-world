@@ -1,0 +1,3 @@
+DATE=`date`
+echo "---> Creating built.html file"
+echo "Built date: $DATE" > ./built.html
